@@ -582,7 +582,7 @@ button#trail:hover {
   letter-spacing: 1px;
   background-color: #4fa6d5;
   color: black;
-  width: 20%;
+  width: 40%;
   font-size: 1em;
   text-align:center;
   margin-left: auto;
@@ -592,7 +592,7 @@ button#trail:hover {
 
 #submit-button-heatmap:hover {
   background-color:  #0f82c0;
-  width: 20%;
+  width: 40%;
 }
 
 
