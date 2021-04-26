@@ -1,6 +1,11 @@
 # bbquda_web
 Website for visualizing mission logs obtained from the EcoMapper and Heron drones.
 
+Pre-requisites:
+- OSGeo4W desktop version installed on local machine, go to https://trac.osgeo.org/osgeo4w/ for the installation
+- Anaconda Prompt
+- Git
+
 #### 1. git clone https://github.com/cange017/bbquda_web.git
 
 #### 2. With anaconda prompt, install gdal (conda install -c conda-forge gdal)
